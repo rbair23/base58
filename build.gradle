@@ -1,0 +1,9 @@
+plugins {
+    id 'java-library'
+}
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+ 
+group 'com.github.rbair23.base58'
+version '0.1.0'
+
